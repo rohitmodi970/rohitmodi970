@@ -79,7 +79,7 @@ I’m **Rohit Kumar Modi**, currently a third-year B-Tech CSE student at **Techn
 
 ### 🐍 Contributions
 <div align="center">
-  <img src="https://github.com/rohitmodi970/rohitmodi970/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/rohitmodi970/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">Thanks for stopping by! 😊</p>
