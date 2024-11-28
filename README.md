@@ -50,7 +50,7 @@ I’m **Rohit Kumar Modi**, currently a third-year B-Tech CSE student at **Techn
 
 ### 🔥 Projects
 
-- **[GetMeAChai (Patreon Clone)](https://github.com/rohitmodi970/getmeachai)**  
+- **[GetMeAChai (Patreon Clone)](https://github.com/rohitmodi970/GetMeaCoffee)**  
   A platform for content creators, inspired by Patreon, enabling creators to share content and engage with supporters through memberships.  
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
