@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Modi</h1>
 <h3 align="center">A Full-Stack Developer and Aspiring ML Specialist</h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitmodi970&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmodi970" />
+</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohitmodi970&row=1&column=6&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophy" />
