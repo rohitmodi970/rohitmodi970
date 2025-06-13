@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Decrypting+Identity...;%E2%9C%A8+R0h1t+K%26m%40r+M0d1+%E2%9C%A8;%E2%9C%A8+Ro%23it+Ku%23ar+Mo%23i+%E2%9C%A8;%E2%9C%A8+Rohi%23+Kuma%23+Mod%23+%E2%9C%A8;%E2%9C%A8+Rohit+Kumar+Modi+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=👨‍💻+Full-Stack+Developer;🤖+Machine+Learning+Enthusiast;🚀+Building+Digital+Solutions;✨+Rohit+Kumar+Modi+✨;🔥+Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 
 ### Full-Stack Developer & ML Enthusiast
 
@@ -10,7 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rohitkumar970ss@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohitmodi970)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 </div>
 
