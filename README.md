@@ -24,7 +24,7 @@
 const rohitKumarModi = {
   name: "Rohit Kumar Modi",
   education: "B.Tech CSE (AI/ML) @ Techno Main Salt Lake, Kolkata",
-  year: "3rd Year",
+  year: "4th Year",
   passions: ["Full-Stack Development", "Machine Learning", "Problem Solving"],
   currentlyLearning: [
     "Practical Machine Learning Applications",
