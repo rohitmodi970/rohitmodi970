@@ -45,7 +45,7 @@ const rohitKumarModi = {
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohitmodi970&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app/?username=rohitmodi970&theme=radical&row=2&column=4&margin-w=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -67,14 +67,19 @@ const rohitKumarModi = {
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-### 🛠️ Tools & Platforms
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -88,13 +93,13 @@ const rohitKumarModi = {
 <div align="center">
 
 <a href="https://github.com/rohitmodi970/GetMeaCoffee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=GetMeaCoffee&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=GetMeaCoffee&theme=radical&cache_seconds=86400" />
 </a>
 <a href="https://github.com/rohitmodi970/Tracking-apk-React-native-Frontend-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=Tracking-apk-React-native-Frontend-&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=Tracking-apk-React-native-Frontend-&theme=radical&cache_seconds=86400" />
 </a>
 <a href="https://github.com/rohitmodi970/ochi-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=ochi-clone&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=ochi-clone&theme=radical&cache_seconds=86400" />
 </a>
 
 </div>
@@ -148,15 +153,15 @@ const rohitKumarModi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmodi970&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmodi970&theme=radical&cache_seconds=3600" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitmodi970&show_icons=true&theme=radical&count_private=true" alt="Rohit's GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitmodi970&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Rohit's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmodi970&layout=compact&theme=radical" alt="Rohit's Top Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmodi970&layout=compact&theme=radical&cache_seconds=86400" alt="Rohit's Top Languages" />
   </a>
 </div>
 
