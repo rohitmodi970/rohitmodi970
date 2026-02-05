@@ -45,7 +45,7 @@ const rohitKumarModi = {
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app/?username=rohitmodi970&theme=radical&row=2&column=4&margin-w=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rohitmodi970&theme=radical&row=2&column=4&margin-w=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -93,13 +93,13 @@ const rohitKumarModi = {
 <div align="center">
 
 <a href="https://github.com/rohitmodi970/GetMeaCoffee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=GetMeaCoffee&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=GetMeaCoffee&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <a href="https://github.com/rohitmodi970/Tracking-apk-React-native-Frontend-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=Tracking-apk-React-native-Frontend-&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=Tracking-apk-React-native-Frontend-&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <a href="https://github.com/rohitmodi970/ochi-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=ochi-clone&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmodi970&repo=ochi-clone&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 
 </div>
@@ -153,16 +153,22 @@ const rohitKumarModi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmodi970&theme=radical&cache_seconds=3600" alt="GitHub Streak" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitmodi970&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitmodi970&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Rohit's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmodi970&layout=compact&theme=radical&cache_seconds=86400" alt="Rohit's Top Languages" />
-  </a>
+  <!-- GitHub Stats Card -->
+  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/rohitmodi970?cardType=level&theme=tokyonight&preferLogin=false&Ring=DD2727&Border=7F3FBF&Text=FFFFFF" alt="Rohit's GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmodi970&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmodi970&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
