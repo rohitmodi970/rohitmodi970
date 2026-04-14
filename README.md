@@ -106,6 +106,15 @@ const rohitKumarModi = {
 
 ### 🌟 Project Highlights
 
+#### 💼 [FindMyForce – Full-Stack Job Portal Platform](https://www.findmyforce.com/)
+*A comprehensive job portal connecting job seekers with employers through an intuitive and modern platform*
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS  
+**Key Features:** Job listings & advanced search, employer & candidate profiles, application tracking, secure authentication, responsive design  
+> 🔒 *Private Repository — Live site available at [findmyforce.com](https://www.findmyforce.com/)*
+
+---
+
 #### 🚀 [GetMeACoffee – Creator Support Platform](https://get-mea-coffee-jzpq.vercel.app/)
 *Empowering creators to receive support from their community through secure payments*
 
