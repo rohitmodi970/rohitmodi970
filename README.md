@@ -24,7 +24,7 @@
 const rohitKumarModi = {
   name: "Rohit Kumar Modi",
   education: "B.Tech CSE (AI/ML) @ Techno Main Salt Lake, Kolkata",
-  year: "4th Year",
+  status: "Graduated",
   passions: ["Full-Stack Development", "Machine Learning", "Problem Solving"],
   currentlyLearning: [
     "Practical Machine Learning Applications",
@@ -32,7 +32,7 @@ const rohitKumarModi = {
     "Java Problem Solving",
     "Advanced NLP Models"
   ],
-  techStack: ["React", "Next.js", "Node.js", "TypeScript", "Python", "Java"],
+  techStack: ["React", "Next.js", "Node.js", "TypeScript", "Python", "Java", "PyTorch", "LLMs", "Generative AI"],
   hobbies: ["Gaming (Valorant)", "Coding Challenges", "Building Projects"],
   motto: "Code with passion, learn with purpose!",
   funFact: "I debug code like a detective and game like a pro! 🎮"
@@ -41,23 +41,19 @@ const rohitKumarModi = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohitmodi970&theme=radical&row=2&column=4&margin-w=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Frontend Development
+### 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,14 +64,29 @@ const rohitKumarModi = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -83,6 +94,12 @@ const rohitKumarModi = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧠 Core Skills
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4ECDC4?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-5C6BC0?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-26A69A?style=for-the-badge)
 
 </div>
 
@@ -154,7 +171,7 @@ const rohitKumarModi = {
 
 <div align="center">
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitmodi970&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohitmodi970&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" />
   
 </div>
 
